@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+drink = input("What is the drink you ordered? ")
+food = input("What is the food you ordered? ")
+print("Hi " + name + "! Thank you for your order.")
+print("You ordered: " + drink + " and " + food + ".")
+print("Your order will be ready in 5 minutes.")
