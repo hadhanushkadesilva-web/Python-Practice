@@ -1,0 +1,5 @@
+age= int(input("Enter your age: "))
+height = float(input("Enter your height in meters: "))
+print("Your age now:", age)
+print("Your age next year:", age + 1)
+print("Your height in centimeters:", height * 100)
