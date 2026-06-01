@@ -1,0 +1,6 @@
+print(10 > 5)
+print(7 == 7)
+print(7 == 8)
+print(100 != 50)
+print("Sri Lanka" == "sri lanka")
+print(5 + 3 >= 8)
