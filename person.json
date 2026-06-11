@@ -1,0 +1,11 @@
+{
+    "name": "Dhanushka",
+    "age": 35,
+    "country": "Sri Lanka",
+    "skills": [
+        "Python",
+        "FastAPI",
+        "SQL"
+    ],
+    "is_student": true
+}

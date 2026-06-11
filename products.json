@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bread",
+        "price": 2.5,
+        "stock": 4,
+        "SKU": "P001"
+    },
+    {
+        "name": "Eggs",
+        "price": 4.5,
+        "stock": 20,
+        "SKU": "P003"
+    },
+    {
+        "name": "Bread",
+        "price": 2.5,
+        "stock": 10,
+        "SKU": "P001"
+    },
+    {
+        "name": "Eggs",
+        "price": 4.5,
+        "stock": 20,
+        "SKU": "P003"
+    }
+]
